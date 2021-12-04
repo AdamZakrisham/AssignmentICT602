@@ -1,0 +1,79 @@
+<!doctype html>
+<html><head><title>About Us</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.indigo-pink.min.css">
+<script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</head>
+
+<body>
+
+<!-- Always shows a header, even in smaller screens. -->
+<div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+  <header class="mdl-layout__header">
+    <div class="mdl-layout__header-row">
+      <!-- Title -->
+      <span class="mdl-layout-title">About Us</span>
+      <!-- Add spacer, to align navigation to the right -->
+      <div class="mdl-layout-spacer"></div>
+      <!-- Navigation. We hide it in small screens. -->
+      <nav class="mdl-navigation mdl-layout--large-screen-only">
+        <a class="mdl-navigation__link" href="">Welcome</a>
+        <a class="mdl-navigation__link" href="">About Us</a>
+        <a class="mdl-navigation__link" href="">Services</a>
+        <a class="mdl-navigation__link" href="">Contact Us</a>
+      </nav>
+    </div>
+  </header>
+  <div class="mdl-layout__drawer">
+    <span class="mdl-layout-title">HYGIENE HERO</span>
+    <nav class="mdl-navigation">
+      <a class="mdl-navigation__link" href="">Welcome</a>
+      <a class="mdl-navigation__link" href="">About Us</a>
+      <a class="mdl-navigation__link" href="">Services</a>
+      <a class="mdl-navigation__link" href="">Contact Us</a>
+    </nav>
+  </div>
+  <main class="mdl-layout__content">
+    <div class="page-content">
+	
+	
+	
+	<h1 style="text-align:center;">We Are HYGIENE HERO</h1>
+	
+	
+	<center><img  src="hh2.webp" alt="hh" style="width:30%;"></center>
+	
+	<p>&nbsp;</p>
+	
+	<pre style="text-align:center;">HygieneHero is your home care specialist aimed at elevating your home living experience.
+	Powered by the CUCKOO+ Service Team, HygieneHero offers a range of professional home care services that are effective and safe.</pre>
+	
+	<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+	
+	<hr>
+	
+	<center><h2>DONT WORRY, BE HAPPY, TRUST US, WE ARE LEGIT.</h2></center>
+
+	</div>
+	
+	
+	
+  </main>
+  
+  <footer class="mdl-mini-footer">
+  <div class="mdl-mini-footer__left-section">
+    <div class="mdl-logo">About Us</div>
+    <ul class="mdl-mini-footer__link-list">
+      <li><a href="#">Help</a></li>
+      <li><a href="#">Privacy & Terms</a></li>
+    </ul>
+  </div>
+</footer>
+
+</div>
+
+</body>
+</html>
